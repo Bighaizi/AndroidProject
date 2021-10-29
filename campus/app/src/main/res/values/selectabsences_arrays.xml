@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data2">
+        <item>病假</item>
+        <item>事假</item>
+        <item>其他假</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data3">
+        <item>校外</item>
+        <item>校内</item>
+    </string-array>
+</resources>

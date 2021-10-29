@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/bor.xml" value="0.15833333333333333" />
+        <entry key="app/src/main/res/drawable-v24/border_input_box.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/border_input_box2.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/border_input_box3.xml" value="0.15833333333333333" />
+        <entry key="app/src/main/res/drawable-v24/border_input_box4.xml" value="0.16296296296296298" />
+        <entry key="app/src/main/res/drawable-v24/border_input_box5.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/btn_normal.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/btn_pressed.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/btn_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/border_input_box.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/drawable/btn_normal.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/drawable/btn_pressed.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/drawable/btn_selector.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_absence.xml" value="0.18645833333333334" />
+        <entry key="app/src/main/res/layout/activity_agree_absence.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/activity_f.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_find_passwd.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1526268115942029" />
+        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_signatures.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_teacher_see_absence.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/border_input_box.xml" value="0.1526268115942029" />
+        <entry key="app/src/main/res/layout/bottom.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_absences.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/tab1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tab2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tab3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tab4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/tab5.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/top.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
