@@ -142,6 +142,7 @@ public class TeacherSeeAbsence extends AppCompatActivity {
     {
         finish();
         Intent intent = new Intent(TeacherSeeAbsence.this,TeacherSeeAbsence.class);
+        intent.putExtra("userid",teacherid_str);
         startActivity(intent);
     }
 
